@@ -8,7 +8,7 @@ import (
 	"encoding/hex"
 	"encoding/pem"
 	"errors"
-	"github.com/smartwalle/nsign"
+	"github.com/A-little-imagination/nsign"
 	"net/url"
 	"testing"
 )

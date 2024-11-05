@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-$ go get github.com/smartwalle/nsign
+$ go get github.com/A-little-imagination/nsign
 ```
 
 ## 使用

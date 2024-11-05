@@ -1,3 +1,3 @@
-module github.com/smartwalle/nsign
+module github.com/A-little-imagination/nsign
 
-go 1.12
+go 1.13

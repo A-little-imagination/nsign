@@ -6,7 +6,7 @@ import (
 	_ "crypto/md5"
 	_ "crypto/sha1"
 	"encoding/hex"
-	"github.com/smartwalle/nsign"
+	"github.com/A-little-imagination/nsign"
 	"net/url"
 	"testing"
 )
